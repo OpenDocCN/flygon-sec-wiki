@@ -1,4 +1,4 @@
-# ApacheCN 逆向工程知识库
+# ApacheCN 安全知识库
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
@@ -20,7 +20,7 @@
 
 ### 其他
 
-*   在我们的 [apachecn/apachecn-re-wiki](https://github.com/apachecn/apachecn-re-wiki) github 上提 issue.
+*   在我们的 [apachecn/apachecn-sec-wiki](https://github.com/apachecn/apachecn-sec-wiki) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](https://www.apachecn.org/#/docs/join) 中联系群主/管理员即可.
 
@@ -29,24 +29,24 @@
 ### Docker
 
 ```
-docker pull apachecn0/apachecn-re-wiki
-docker run -tid -p <port>:80 apachecn0/apachecn-re-wiki
+docker pull apachecn0/apachecn-sec-wiki
+docker run -tid -p <port>:80 apachecn0/apachecn-sec-wiki
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install apachecn-re-wiki
-apachecn-re-wiki <port>
+pip install apachecn-sec-wiki
+apachecn-sec-wiki <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g apachecn-re-wiki
-apachecn-re-wiki <port>
+npm install -g apachecn-sec-wiki
+apachecn-sec-wiki <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
