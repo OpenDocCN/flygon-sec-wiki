@@ -4,7 +4,7 @@
 > 
 > 收割 SB 的人会被 SB 们封神，试图唤醒 SB 的人是 SB 眼中的 SB。——SB 第三定律
 
-* [在线阅读](https://rew.flygon.net)
+* [在线阅读](https://secw.flygon.net)
 ## 下载
 
 ### Docker
